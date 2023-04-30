@@ -1,0 +1,1 @@
+To host the notebook on netlify we have refferd this https://github.com/cs328-2022/writing-assignment
